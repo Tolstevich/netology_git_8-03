@@ -42,8 +42,7 @@
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
-
-
+https://github.com/Tolstevich/netology_git_8-03/commit/e49c010f1d793298acd623ea0926915b48bf5eb5
 
 
 ---
